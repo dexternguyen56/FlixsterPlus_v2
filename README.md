@@ -2,7 +2,7 @@
 
 Submitted by: **Tran Nguyen**
 
-**FlixsterPlus** is a movie browsing app that allows users to browse ... [TODO] 
+**FlixsterPlus** is a movie browsing app that allows users to browse popular TV shows and descriptions 
 
 Time spent: **4** hours spent in total
 
